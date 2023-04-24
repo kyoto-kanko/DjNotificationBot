@@ -1,1 +1,1 @@
-# DjNotificationBot
+# このBotについて
